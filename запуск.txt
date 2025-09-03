@@ -1,0 +1,25 @@
+🚀 Как запускать:
+
+Запуск API:
+
+python main.py --mode api
+
+
+Запуск чат-клиента:
+
+python main.py --mode chat
+
+
+Запуск дашборда:
+
+python main.py --mode dashboard
+
+
+Запуск обучения:
+
+python main.py --mode train
+
+
+Тестовый инференс:
+
+python main.py --mode inference
